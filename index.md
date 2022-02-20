@@ -2,4 +2,4 @@
 
 Projects
 
-[GD2](Assign2/GDIndex.html)
+[GD2](GD2/Assign 2/GD2Index.html)
