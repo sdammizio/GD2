@@ -1,3 +1,5 @@
+
+
 var x, y, target = null;
 
 document.addEventListener('mousedown', function(e) {
@@ -38,4 +40,6 @@ document.getElementById("close-sticky").onclick = function() {close()};
     function close() {
   document.getElementById("sticky-note").style.display="none";
 }	
+
+
 
