@@ -34,6 +34,6 @@ function draw(){
 
 }
 
-// function mouseClicked(){
-//   save('myCanvas.png');
-// }
+function mouseClicked(){
+  save('myCanvas.pdf');
+}
